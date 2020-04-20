@@ -1,2 +1,2 @@
 # repofuel.github.io
-The source for repofuel.com landing page.
+The source for [repofuel.com](https://repofuel.com) landing page.
